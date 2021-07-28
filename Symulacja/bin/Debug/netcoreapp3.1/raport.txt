@@ -1,0 +1,55 @@
+P1    :#####                                  
+P2    :                ##########             
+P3    :     ####                              
+P4    :         #######                       
+P5    :                          ##########   
+******************
+process number: 1
+process burst time: 5
+process arrival time: 0
+process start time: 0
+process end time: 5
+process waiting time: 0
+process turnaround time: 5
+process priority: 0
+******************
+process number: 3
+process burst time: 4
+process arrival time: 4
+process start time: 5
+process end time: 9
+process waiting time: 1
+process turnaround time: 5
+process priority: 0
+******************
+process number: 4
+process burst time: 7
+process arrival time: 4
+process start time: 9
+process end time: 16
+process waiting time: 5
+process turnaround time: 12
+process priority: 0
+******************
+process number: 2
+process burst time: 10
+process arrival time: 0
+process start time: 16
+process end time: 26
+process waiting time: 16
+process turnaround time: 26
+process priority: 0
+******************
+process number: 5
+process burst time: 10
+process arrival time: 10
+process start time: 26
+process end time: 36
+process waiting time: 16
+process turnaround time: 26
+process priority: 0
+******************
+duration of the simulation: 39
+number of processes: 5
+average waiting time: 7,6
+average turnaround time: 14,8

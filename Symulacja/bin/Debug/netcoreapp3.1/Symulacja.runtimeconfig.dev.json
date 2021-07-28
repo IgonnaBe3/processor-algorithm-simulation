@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kapki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kapki\\.nuget\\packages"
+    ]
+  }
+}
